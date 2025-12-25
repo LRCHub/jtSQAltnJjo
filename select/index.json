@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "I'll Be Home (Official Yule Log Video)",
+  "base_artist": "Meghan Trainor",
+  "createdAt": "2025-12-25T11:13:24.809200Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Be Home for Christmas",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/01_I'll_Be_Home_for_Christmas_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Be Home for Christmas",
+      "artist": "Cascada",
+      "has_synced": false,
+      "path": "select/02_I'll_Be_Home_for_Christmas_Cascada.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Be Home for Christmas",
+      "artist": "Sarah McLachlan",
+      "has_synced": true,
+      "path": "select/03_I'll_Be_Home_for_Christmas_Sarah_McLachlan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Be Home For Christmas",
+      "artist": "REO Speedwagon",
+      "has_synced": true,
+      "path": "select/04_I'll_Be_Home_For_Christmas_REO_Speedwagon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Be Home for Christmas",
+      "artist": "Twisted Sister",
+      "has_synced": true,
+      "path": "select/05_I'll_Be_Home_for_Christmas_Twisted_Sister.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Be Home for Christmas",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/06_I'll_Be_Home_for_Christmas_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Be Home For Christmas",
+      "artist": "Colbie Caillat",
+      "has_synced": false,
+      "path": "select/07_I'll_Be_Home_For_Christmas_Colbie_Caillat.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Be Home for Christmas",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/08_I'll_Be_Home_for_Christmas_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Be Home For Christmas",
+      "artist": "Aly & AJ",
+      "has_synced": true,
+      "path": "select/09_I'll_Be_Home_For_Christmas_Aly_&_AJ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "i'll be home for christmas",
+      "artist": "Christina Perri",
+      "has_synced": false,
+      "path": "select/10_i'll_be_home_for_christmas_Christina_Perri.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Be Home For Christmas",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/11_I'll_Be_Home_For_Christmas_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Be Home for Christmas",
+      "artist": "Aimee Mann",
+      "has_synced": false,
+      "path": "select/12_I'll_Be_Home_for_Christmas_Aimee_Mann.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Be Home for Christmas",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/13_I'll_Be_Home_for_Christmas_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Be Home for Christmas",
+      "artist": "Ingrid Michaelson feat. Will Chase",
+      "has_synced": false,
+      "path": "select/14_I'll_Be_Home_for_Christmas_Ingrid_Michaelson_feat._Will_Chase.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Be Home for Christmas",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/15_I'll_Be_Home_for_Christmas_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'll Be Home On Christmas Day",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/16_I'll_Be_Home_On_Christmas_Day_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'll Be Home For Christmas (Featuring Lita Ford)",
+      "artist": "Twisted Sister",
+      "has_synced": true,
+      "path": "select/17_I'll_Be_Home_For_Christmas_(Featuring_Lita_Ford)_Twisted_Sister.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I’ll Be Home for Christmas",
+      "artist": "Christina Perri",
+      "has_synced": false,
+      "path": "select/18_I’ll_Be_Home_for_Christmas_Christina_Perri.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll Be Home",
+      "artist": "Meghan Trainor",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_Be_Home_Meghan_Trainor.txt"
+    }
+  ]
+}
